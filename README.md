@@ -5,7 +5,7 @@
 ### Hola, soy Ezequiel Cristaldo, mis amigos me suelen llamar Pachu 👋
 
 Soy estudiante de Informatica y me gusta el desarrollo web.
-¡Bienvenido a mi perfil de GitHub y disculpen el desorden, ando trabajando y no he tenido tiempo de limpiar un poco!
+¡Bienvenido a mi perfil de GitHub y disculpen el desorden, ando trabajando y no he tenido tiempo de limpiar demasiado!
 
 - 🔭 Actualmente estoy trabajando en Proyectos de desarrollo web Full Stack.
 - 🌱 Estoy aprendiendo Desarrollo de Apis Rest con Django Python, Node Express y React. Docker y Kubernetes.
